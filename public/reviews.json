@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "review": "Dr. Farheen has been such a blessing for me. She is truly concerned about her patients, how they feel, and making sure they feel better.",
+        "name": "CHERYL A."
+    },
+    {
+        "id": 2,
+        "review": "Everyone in the office was exceedingly kind and Dr. Faheen was very knowledgeable and probing in her exam.",
+        "name": "NANVY C."
+    },
+    {
+        "id": 3,
+        "review": "I felt confident in what I needed to do for my lower back after my visit. Thank you so much Dr. Farheen!",
+        "name": "ZOYA M."
+    },
+    {
+        "id": 4,
+        "review": "She listens to you, explains everything well and the most important thing is that she worries about her patient.",
+        "name": "YELLENI W."
+    },
+    {
+        "id": 5,
+        "review": "A very professional group, didn’t have to wait long to see the doctor. Dr. Farheen has the patience to listen and explains clearly her diagnosis.",
+        "name": "NICK Z."
+    },
+    {
+        "id": 6,
+        "review": "Dr Farheen listened to all my issues and how we’re going forward to getting me feeling better. Thank you.",
+        "name": "ROSIE M."
+    },
+    {
+        "id": 7,
+        "review": "Dr. Farheen took her time with me we will meet later to decide what changes to make. Definitely a team effort for my health.",
+        "name": "MARIA W."
+    }
+]

@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden !important;
+}
+
+.is-sticky {
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #FFF;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.primary_color {
+  color: #025E74;
+}
+
+.secondary_color {
+  color: #49D5A7;
+}
+
+.slick_dots li button:before {
+  color: white !important;
+  font-size: 10px !important;
+}
